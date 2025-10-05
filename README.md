@@ -27,8 +27,13 @@ This project demonstrates the design and simulation of a Small Office/Home Offic
 
 ## PCs
 - Assign IPs manually
+![PC IP](Images/PC_IP.png)
 
 # Connectivity Test
+- Ping command from PC 1
+![PC1 Ping](Images/PC1_Ping.png)
+- Ping command from PC 3
+![PC3 Ping](Images/PC3_Ping.png)
 
 # Learning Points 
 - Designing a structured small office network
