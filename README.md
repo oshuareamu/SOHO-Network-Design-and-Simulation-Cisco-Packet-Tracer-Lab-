@@ -23,8 +23,10 @@ This project demonstrates the design and simulation of a Small Office/Home Offic
 
 ## Switches 
 - Configure SVI for remote management
+![SVI](Images/SVI.png) 
 
 ## PCs
+- Assign IPs manually
 
 # Connectivity Test
 
