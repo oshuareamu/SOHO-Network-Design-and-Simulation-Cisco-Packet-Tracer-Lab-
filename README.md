@@ -18,6 +18,7 @@ This project demonstrates the design and simulation of a Small Office/Home Offic
 ## Router
 - IP address and secret Password configuration
 ![Router](Images/Router.png)
+
 - Confirm Message of the day
 ![motd](Images/motd.png)
 
@@ -32,6 +33,7 @@ This project demonstrates the design and simulation of a Small Office/Home Offic
 # Connectivity Test
 - Ping command from PC 1
 ![PC1 Ping](Images/PC1_Ping.png)
+
 - Ping command from PC 3
 ![PC3 Ping](Images/PC3_Ping.png)
 
