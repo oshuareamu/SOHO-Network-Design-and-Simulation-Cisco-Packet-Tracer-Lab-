@@ -5,7 +5,7 @@ This project demonstrates the design and simulation of a Small Office/Home Offic
 - 2 Switches (to segment the network and connect hosts)
 - 4 PCs (Hosts) connected to the switches
   
-![Network Diagram](Images/SOHO.png)
+![Network Diagram](Images/NetworkTopology.png)
 ## Devices Used
 
 ![Network Spreadsheet](Images/Devices.png)
