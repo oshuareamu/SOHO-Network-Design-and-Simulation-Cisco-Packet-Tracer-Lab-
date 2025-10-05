@@ -16,8 +16,13 @@ This project demonstrates the design and simulation of a Small Office/Home Offic
 
 # Basic Configuration steps
 ## Router
+- Configure IP address and secret Password
+![Router](Images/Router.png)
+- Confirm Message of the day
+![motd](Images/motd.png)
 
 ## Switches 
+- Configure SVI for remote management
 
 ## PCs
 
