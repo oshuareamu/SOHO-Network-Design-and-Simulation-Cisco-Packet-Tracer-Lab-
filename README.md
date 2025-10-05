@@ -26,7 +26,7 @@ This project demonstrates the design and simulation of a Small Office/Home Offic
 ![SVI](Images/SVI.png) 
 
 ## PCs
-- Assign IPs manually
+- Assign IP addresses manually
 ![PC IP](Images/PC_IP.png)
 
 # Connectivity Test
