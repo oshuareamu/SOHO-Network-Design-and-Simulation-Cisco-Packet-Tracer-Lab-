@@ -14,6 +14,9 @@ This project demonstrates the design and simulation of a Small Office/Home Offic
 
 ![IP Plan Spreedsheet](Images/IP.png)
 
+## SOHO Network Set-up
+![SOHO](Images/SOHO.png)
+
 # Basic Configuration steps
 ## Router
 - IP address and secret Password configuration
