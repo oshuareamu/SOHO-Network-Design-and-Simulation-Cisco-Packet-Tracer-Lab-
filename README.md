@@ -12,7 +12,7 @@ This project demonstrates the design and simulation of a Small Office/Home Offic
 
 ## IP Addressing Plan
 
-![IP Plan Spreedsheet](Images/IP.Plan.png)
+![IP Plan Spreedsheet](Images/IP.png)
 
 # Basic Configuration steps
 ## Router
