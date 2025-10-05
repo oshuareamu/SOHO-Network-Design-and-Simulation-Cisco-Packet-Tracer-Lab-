@@ -4,10 +4,15 @@ This project demonstrates the design and simulation of a Small Office/Home Offic
 - 1 Router (for inter-VLAN and internet access)
 - 2 Switches (to segment the network and connect hosts)
 - 4 PCs (Hosts) connected to the switches
--
+  
+![Network Diagram](Images/soho.png)
 ## Devices Used
 
+![Network Spreadsheet](Images/Devices.png)
+
 ## IP Addressing Plan
+
+![IP Plan Spreedsheet](Images/IP.Plan.png)
 
 # Basic Configuration steps
 ## Router
